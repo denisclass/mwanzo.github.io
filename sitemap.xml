@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mwanzo.github.io/about/</loc>
+    <lastmod>2020-02-07T23:32:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanzo.github.io/</loc>
+    <lastmod>2020-02-07T23:32:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanzo.github.io/blogs/</loc>
+    <lastmod>2020-02-07T23:24:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanzo.github.io/blogs/post-two/</loc>
+    <lastmod>2020-02-07T23:24:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanzo.github.io/blogs/post-one/</loc>
+    <lastmod>2020-02-07T23:14:33+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanzo.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mwanzo.github.io/tags/</loc>
+  </url>
+  
+</urlset>
