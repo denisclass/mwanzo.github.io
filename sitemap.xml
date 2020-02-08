@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mwanzo.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-02-07T23:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mwanzo.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-02-07T23:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mwanzo.github.io/blogs/</loc>
+    <loc>/blogs/</loc>
     <lastmod>2020-02-07T23:24:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mwanzo.github.io/blogs/post-two/</loc>
+    <loc>/blogs/post-two/</loc>
     <lastmod>2020-02-07T23:24:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mwanzo.github.io/blogs/post-one/</loc>
+    <loc>/blogs/post-one/</loc>
     <lastmod>2020-02-07T23:14:33+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mwanzo.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://mwanzo.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
