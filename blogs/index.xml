@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on MWANZO</title>
-    <link>/blogs/</link>
+    <link>https://mwanzo.github.io/blogs/</link>
     <description>Recent content in Blogs on MWANZO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 07 Feb 2020 23:24:54 +0300</lastBuildDate>
     
-	<atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mwanzo.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post Two</title>
-      <link>/blogs/post-two/</link>
+      <link>https://mwanzo.github.io/blogs/post-two/</link>
       <pubDate>Fri, 07 Feb 2020 23:24:54 +0300</pubDate>
       
-      <guid>/blogs/post-two/</guid>
+      <guid>https://mwanzo.github.io/blogs/post-two/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post One</title>
-      <link>/blogs/post-one/</link>
+      <link>https://mwanzo.github.io/blogs/post-one/</link>
       <pubDate>Fri, 07 Feb 2020 23:14:33 +0300</pubDate>
       
-      <guid>/blogs/post-one/</guid>
+      <guid>https://mwanzo.github.io/blogs/post-one/</guid>
       <description>Day One You bet. I had nothing for you day one!</description>
     </item>
     
